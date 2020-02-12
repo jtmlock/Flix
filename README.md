@@ -19,12 +19,10 @@ Time spent: **10** hours spent at least
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="FlixPart2Walkthrough.gif" width=250><br>
 
 ### Note
-The subtle differences from the Version of XCode Tim uses and mine
+The subtle differences from the Version of XCode Tim uses and mine updated to version 11.3.1
 ---
 
 ## Flix Part 1
